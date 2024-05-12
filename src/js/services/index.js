@@ -14,7 +14,6 @@ module.exports = {
   qzone: require('./qzone'),
   reddit: require('./reddit'),
   telegram: require('./telegram'),
-  tencent: require('./tencent-weibo'),
   threema: require('./threema'),
   tumblr: require('./tumblr'),
   twitter: require('./twitter'),
